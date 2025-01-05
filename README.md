@@ -1,9 +1,6 @@
 # 13.교차로 자동차 카운팅 인공지능 해커톤
 Repository for my Hackathon Experionce of the vehicles detection and counting in the road.
 
-https://lelouch0316.tistory.com/entry/%EA%B5%90%EC%B0%A8%EB%A1%9C-%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%95%B4%EC%BB%A4%ED%86%A4-%EA%B8%B0%EB%A1%9D?category=1076241
-
-
 * **Date : 2022-03-23**
 * **Last Modified At : 2022-06-29**
 
